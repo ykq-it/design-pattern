@@ -1,9 +1,5 @@
 package com.ykq.composite.general.transparent;
 
-import com.ykq.composite.general.transparent.Floder;
-import com.ykq.composite.general.transparent.Leaf;
-import com.ykq.composite.general.transparent.Directory;
-
 /**
  * @ClassName Test
  * @Description TODO
